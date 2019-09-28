@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="_project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_project1">
+				<Option output="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/_project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 _project1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_project1/fast">
+				<Option output="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/_project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 _project1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jamie/대학교\ 관련\ 자료/2019년\ 2-2\ 대학교\ 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/main.cpp">
+			<Option target="_project1"/>
+		</Unit>
+		<Unit filename="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/main.h">
+			<Option target="_project1"/>
+		</Unit>
+		<Unit filename="/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

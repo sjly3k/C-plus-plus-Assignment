@@ -1,0 +1,4 @@
+"/Users/jamie/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/cmake-build-debug
