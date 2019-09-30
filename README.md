@@ -13,4 +13,12 @@
   
   (2) There is some problem when I save/load tel#. ('0' doesn't appear...)
   
+  UPDATE (9/30, Mon)
   
+  -> Seperate Main file into 2 cpp, header files (management / student).
+  
+  -> Satisfied all requirements what my professor wants. 
+    
+    <1> Input StudentID exactly 10 digits.
+    
+    <2> Input Name, Department without any blanks.
