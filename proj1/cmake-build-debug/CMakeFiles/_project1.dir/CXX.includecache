@@ -15,4 +15,68 @@ fstream
 -
 vector
 -
+string
+-
+math.h
+-
+student.h
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.h
+student.cpp
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.cpp
+management.h
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/management.h
+management.cpp
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/management.cpp
+
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/management.cpp
+student.h
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.h
+management.h
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/management.h
+iostream
+-
+string.h
+-
+vector
+-
+string
+-
+
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/management.h
+iostream
+-
+string.h
+-
+fstream
+-
+vector
+-
+string
+-
+math.h
+-
+
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.cpp
+student.h
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.h
+iostream
+-
+string.h
+-
+math.h
+-
+
+/Users/jamie/대학교 관련 자료/2019년 2-2 대학교 과제/객체지향프로그래밍/과제/proj1/student.h
+iostream
+-
+string.h
+-
+fstream
+-
+vector
+-
+string
+-
+math.h
+-
 

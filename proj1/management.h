@@ -1,27 +1,24 @@
-//
-// Created by User on 28/09/2019.
-//
-
-#ifndef _PROJECT1_MANAGEMENT_H
-#define _PROJECT1_MANAGEMENT_H
-
 #include <iostream>
 #include <string.h>
 #include <fstream>
 #include <vector>
-#include "student.h"
+#include <string>
+#include <math.h>
 
 using namespace std;
 
-#define NAME_SIZE 15
-#define DEPART_SIZE 20
+#define NAME_SIZE 16
+#define DEPART_SIZE 21
 #define STUDENT_MAX 100
+
+#ifndef _PROJECT1_MANAGEMENT_H
+#define _PROJECT1_MANAGEMENT_H
 
 class studentManagement {
 public:
     void Run();
     studentManagement();
-    virtual ~studentManagement();
+    ~studentManagement();
 
 private:
     void Load();
@@ -35,7 +32,5 @@ private:
     int m_index;
     Student stu[STUDENT_MAX];
 };
-
-
 
 #endif //_PROJECT1_MANAGEMENT_H
