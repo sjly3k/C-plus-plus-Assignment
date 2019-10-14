@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jamie/Downloads/oop-proj2-inf-int-master/inf_int.cpp
+inf_int.h
+/Users/jamie/Downloads/oop-proj2-inf-int-master/inf_int.h
+
+/Users/jamie/Downloads/oop-proj2-inf-int-master/inf_int.h
+iostream
+-
+string
+-
+
+/Users/jamie/Downloads/oop-proj2-inf-int-master/main.cpp
+inf_int.h
+/Users/jamie/Downloads/oop-proj2-inf-int-master/inf_int.h
+
