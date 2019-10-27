@@ -21,14 +21,14 @@
   - 👯 Clone this repo to your local machine using `https://github.com/onlyyou-teamb/Server.git`
 
 **Step 2**
-Execute exe file and take one file as an argument. Like this :
-- a.exe file1.txt
+- Execute exe file and take one file as an argument. Like this :
+  - a.exe file1.txt
 
 **Step 3**
-Choose menu.
-- In Search, you can search member through member's name, studentID, department name. And you can see the list which is listed alphabetically.
-- In Modify, you have to input member name, and write down his/her information again.
-- In Insert, you can input member's information.
+- Choose menu.
+  - In Search, you can search member through member's name, studentID, department name. And you can see the list which is listed alphabetically.
+  - In Modify, you have to input member name, and write down his/her information again.
+  - In Insert, you can input member's information.
 
 **Step 4**
 - **HACK AWAY!** 🔨🔨🔨
@@ -68,11 +68,11 @@ Choose menu.
   - 👯 Clone this repo to your local machine using `https://github.com/onlyyou-teamb/Server.git`
 
 **Step 2**
-Execute your IDE (CLion, Visual Studio 20XX, and etc) and open this 3 files.
+- Execute your IDE (CLion, Visual Studio 20XX, and etc) and open this 3 files.
 (main.cpp, inf_int.h, inf_int.cpp)
 
 **Step 3**
-Go to main.cpp, write codes that you want to calculate using (+ / - / *) operator.
+- Go to main.cpp, write codes that you want to calculate using (+ / - / *) operator.
 
 **Step 4**
 - **HACK AWAY!** 🔨🔨🔨
