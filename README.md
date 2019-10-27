@@ -1,4 +1,4 @@
-# C-plus-plus-Assignment
+# :high_brightness: C++ Assignments in 2019, Fall Semester :high_brightness:
 
 ## 1. Student Management System Dev.
 
