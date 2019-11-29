@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/final_proj/Board.cpp
+Board.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/final_proj/Board.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/final_proj/Board.h
+iostream
+-
+iomanip
+-
+
 /Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/final_proj/main.cpp
 iostream
 -
+Board.cpp
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/final_proj/Board.cpp
 
