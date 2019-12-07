@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Board.h
+string
+-
+Util.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Util.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Computer.h
+Player.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Player.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Game.cpp
+Game.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Game.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Game.h
+Player.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Player.h
+Board.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Board.h
+Computer.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Computer.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Player.h
+Util.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Util.h
+Board.h
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Board.h
+
+/Users/jamie/University/2019.2 Fall Semester/객체지향프로그래밍/과제/tictactoe_oop/Util.h
+utility
+-
+iostream
+-
+iomanip
+-
+map
+-
+
