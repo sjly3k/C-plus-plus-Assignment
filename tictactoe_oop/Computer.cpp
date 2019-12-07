@@ -1,5 +1,5 @@
 //
-// Created by Myeongwon Choi on 05/12/2019.
+// Created by Seungjin Lee on 05/12/2019.
 //
 //
 #include "Computer.h"

@@ -1,5 +1,6 @@
 //
 // Created by Myeongwon Choi on 05/12/2019.
+// Modified by SeungJin Lee on 28/11/2019.
 //
 
 #ifndef TICTACTOE_COMPUTER_H

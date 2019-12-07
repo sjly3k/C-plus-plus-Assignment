@@ -1,6 +1,6 @@
 //
 // Created by Myeongwon Choi on 27/11/2019.
-//
+// Modified by SeungJin Lee on 28/11/2019.
 
 #include "Game.h"
 
